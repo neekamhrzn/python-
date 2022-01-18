@@ -1,4 +1,4 @@
-#check conditions of input
+
 '''
 to allow two players
 player 1=X
